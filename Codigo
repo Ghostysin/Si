@@ -1,0 +1,383 @@
+<!DOCTYPE html>
+<html lang="es">
+<head><link rel="stylesheet" href="styles.css">
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script src="script.js"></script> 
+ 
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Página Especial</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="gifs-top">
+  <img src="gif1.gif" alt="Gif 1">
+  <img src="gif2.gif" alt="Gif 2">
+  <img src="gif3.gif" alt="Gif 3">
+</div>
+  <main class="container">
+    <h1>Para mi Amada Citlally</h1>
+    
+<div id="story" class="poem-background">
+  <p>Permíteme sumergirme en los detalles más íntimos y darle vida a nuestra historia de amor, llena de pasión y romanticismo.</p>
+
+  <p>Nuestro hogar, <span class="highlight">Guadalajara, Jalisco, México</span>, es el lugar donde nació el fuego de nuestro amor. En cada esquina de esta ciudad vibrante, puedo sentir la electricidad de los momentos que hemos compartido. Aunque ella ya no resida aquí, Guadalajara sigue siendo un lienzo en el que pintamos nuestros recuerdos más preciados.</p>
+
+  <p>A pesar de la <span class="highlight">distancia</span> que nos separa, nuestras almas han encontrado un refugio en los rincones virtuales del mundo digital. Nuestra relación a distancia ha desafiado todas las probabilidades, mostrándonos que el amor no tiene fronteras. A través de mensajes, videollamadas y cartas llenas de amor, hemos tejido un lazo inquebrantable, resistente a cualquier distancia.</p>
+
+  <p>Una de las chispas que encendió nuestra complicidad fue nuestra pasión compartida por <span class="highlight">One Piece</span>. Recuerdo el momento en que ella, con una sonrisa traviesa, me introdujo en la fascinante <span class="highlight">historia</span>. Juntos hemos navegado por los mares de <span class="highlight">Grand Line</span>, cautivados por los personajes, las tramas emocionantes y los momentos épicos que nos han dejado sin aliento. Cada episodio compartido ha sido un tesoro preciado que alimenta nuestra conexión, convirtiéndose en un símbolo de nuestra unión más allá de la pantalla.</p>
+
+  <p>Pero lo que realmente me ha robado el corazón es su inmenso intelecto y su madurez admirable. A pesar de su corta edad, ella posee una sabiduría que parece provenir de siglos de experiencia. Cada vez que nos sumergimos en una conversación profunda, me maravillo ante su perspicacia y su capacidad para comprender los matices de la vida. Me siento afortunado de tener a mi lado a alguien que desafía mi mente y me inspira a ser mejor en todos los aspectos de mi vida.</p>
+
+  <p>Y cómo podría no perderme en el hechizo de sus ojos. Son dos luceros llenos de magia y misterio, capaces de desvelar los secretos más profundos de su alma. Cuando nuestros ojos se encuentran, el mundo a nuestro alrededor se desvanece y solo existe la conexión intensa y emotiva que se establece entre nosotros. En ese instante, el universo entero parece celebrar la belleza de nuestro amor.</p>
+
+  <p>Juntos hemos tejido un tapiz de sueños, y uno de ellos nos transporta a un refugio idílico en un lugar boscoso. Nos imaginamos caminando tomados de la mano por senderos rodeados de árboles centenarios, dejando que la naturaleza despierte nuestros sentidos y nos envuelva en su serenidad. Cada visita a este rincón especial es un recordatorio de que nuestro amor puede florecer en cualquier entorno, incluso en medio de la exuberancia de la naturaleza.</p>
+
+  <p>Nuestro viaje juntos apenas ha comenzado, y estoy emocionado por lo que el futuro nos depara. Aunque los desafíos puedan presentarse en nuestro camino, sé que juntos somos invencibles. Nuestro amor es un faro que ilumina nuestras vidas, guiándonos hacia la felicidad y la plenitud.</p>
+</div>
+
+<h2>Mensajes Personalizados</h2>
+    <div class="custom-messages">
+      <p>Querida Citlally, cada día a tu lado es un regalo que aprecio infinitamente. Tu presencia llena mi vida de felicidad y amor. Gracias por ser mi apoyo incondicional y por hacerme sentir especial en cada momento.</p>
+      <p>Citlally, no puedo evitar sonreír cada vez que pienso en los momentos que hemos compartido. Cada risa, cada aventura y cada momento me recuerdan lo afortunado que soy de tenerte a mi lado. Te amo más de lo que las palabras pueden expresar.</p>
+      <p>A Citlally, mi compañera de vida y mi mejor amiga. Gracias por estar ahí en los buenos y malos momentos, por escucharme y comprenderme. Eres la persona con la que quiero construir un futuro lleno de amor y felicidad.</p>
+    </div>
+
+    <h2>Playlist de Canciones</h2>
+    <div class="playlist">
+      <div class="playlist">
+  <h2>Playlist de canciones</h2>
+<ul class="playlist">
+  <li>
+    <span class="song-title">Amor Completo</span>
+    <div class="video-container">
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/PQlG1gznMBE" frameborder="0" allowfullscreen></iframe>
+    </div>
+    <div class="video-link">
+      <a href="https://www.youtube.com/watch?v=PQlG1gznMBE" target="_blank">Ver en YouTube</a>
+    </div>
+  </li>
+  <li>
+    <span class="song-title">Million Little Reasons</span>
+    <div class="video-container">
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/ilZAUXSSk8A" frameborder="0" allowfullscreen></iframe>
+    </div>
+    <div class="video-link">
+      <a href="https://www.youtube.com/watch?v=ilZAUXSSk8A" target="_blank">Ver en YouTube</a>
+    </div>
+  </li>
+  <li>
+    <span class="song-title">Cold/Mess</span>
+    <div class="video-container">
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/Il7Nv270zNk" frameborder="0" allowfullscreen></iframe>
+    </div>
+    <div class="video-link">
+      <a href="https://www.youtube.com/watch?v=Il7Nv270zNk" target="_blank">Ver en YouTube</a>
+    </div>
+  </li>
+  <li>
+    <span class="song-title">Love</span>
+    <div class="video-container">
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/q3yJ_yDhNVk" frameborder="0" allowfullscreen></iframe>
+    </div>
+    <div class="video-link">
+      <a href="https://www.youtube.com/watch?v=q3yJ_yDhNVk" target="_blank">Ver en YouTube</a>
+    </div>
+  </li>
+  <li>
+    <span class="song-title">Labios Rotos</span>
+    <div class="video-container">
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/7h2ryr_uUEs" frameborder="0" allowfullscreen></iframe>
+    </div>
+    <div class="video-link">
+      <a href="https://www.youtube.com/watch?v=7h2ryr_uUEs" target="_blank">Ver en YouTube</a>
+    </div>
+  </li>
+  <li>
+    <span class="song-title">City of Stars</span>
+    <div class="video-container">
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/R2CzFQpWoLs" frameborder="0" allowfullscreen></iframe>
+    </div>
+    <div class="video-link">
+      <a href="https://www.youtube.com/watch?v=R2CzFQpWoLs" target="_blank">Ver en YouTube</a>
+    </div>
+  </li>
+  <li>
+    <span class="song-title">Paraiso Lunar</span>
+    <div class="video-container">
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/ZeOJ98mSOuE" frameborder="0" allowfullscreen></iframe>
+    </div>
+    <div class="video-link">
+      <a href="https://www.youtube.com/watch?v=ZeOJ98mSOuE" target="_blank">Ver en YouTube</a>
+    </div>
+  </li>
+  <li>
+    <span class="song-title">Locos</span>
+    <div class="video-container">
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/riQLQI0MJZ0" frameborder="0" allowfullscreen></iframe>
+    </div>
+    <div class="video-link">
+      <a href="https://www.youtube.com/watch?v=riQLQI0MJZ0" target="_blank">Ver en YouTube</a>
+    </div>
+  </li>
+  <li>
+    <span class="song-title">Rue Vieille Du Temple</span>
+    <div class="video-container">
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/hh-8nsIPEN4" frameborder="0" allowfullscreen></iframe>
+    </div>
+    <div class="video-link">
+      <a href="https://www.youtube.com/watch?v=hh-8nsIPEN4" target="_blank">Ver en YouTube</a>
+    </div>
+  </li>
+</ul>
+
+</div>
+
+    <h2>Dedicatoria Final</h2>
+    <div class="dedication">
+      <p>A través de los días y las noches, a lo largo de las páginas de esta página web, quiero dedicarte estas palabras finales llenas de amor y gratitud. Eres el faro que ilumina mi vida, la musa que inspira mis sueños y la fuerza que impulsa mi ser.</p>
+      <p>En cada línea de código y en cada imagen que hemos compartido en esta plataforma digital, hemos tejido un vínculo especial, una conexión que trasciende el mundo virtual y se convierte en una realidad tangible en nuestros corazones.</p>
+      <p>Tu presencia en mi vida ha sido un regalo inigualable, llenando mis días de risas, amor y alegría. Tú eres mi confidente, mi compañera de aventuras y mi apoyo incondicional. A través de los desafíos y los triunfos, siempre has estado a mi lado, brindándome tu amor y apoyo sin medida.</p>
+
+<div class="poem-background" id="poem1">
+    <h2>La Distancia que Nos Separa</h2>
+    <p>
+      En la distancia se despliega nuestro amor,
+      un lazo que se forja sin cesar,
+      más allá de fronteras, sin temor,
+      en cada latido, en cada mirar.
+    </p>
+    <p>
+      Son millas las que nos separan,
+      pero en sueños nos encontramos,
+      nuestros corazones se amparan,
+      en un abrazo eterno, nos nombramos.
+    </p>
+    <p>
+      La distancia no es obstáculo,
+      para amarnos con intensidad,
+      en cada palabra, en cada verso,
+      nuestro amor florece en la eternidad.
+    </p>
+    <p>
+      Juntos desafiamos los límites,
+      con pasión y entrega infinita,
+      nuestra historia trasciende los mares,
+      en cada encuentro, la vida se excita.
+    </p>
+  </div>
+
+  <div class="poem-background" id="poem2">
+    <h2>Los Ojos que Iluminan</h2>
+    <p>
+      En su mirada se encuentran estrellas,
+      dos luceros que brillan con intensidad,
+      en ellos se esconden las más bellas
+      emociones que despiertan mi realidad.
+    </p>
+    <p>
+      Sus ojos, cálidos y profundos,
+      me envuelven en un dulce hechizo,
+      en su brillo encuentro segundos
+      de un amor eterno, de un paraíso.
+    </p>
+    <p>
+      En su mirar encuentro mi refugio,
+      un oasis de paz y tranquilidad,
+      en cada destello se enciende el fuego,
+      de un amor eterno, sin finalidad.
+    </p>
+    <p>
+      Nuestros ojos se entrelazan,
+      en un lenguaje silencioso y profundo,
+      en ellos encuentro un universo,
+      donde el amor se hace mundo.
+    </p>
+  </div>
+
+  <div class="poem-background" id="poem3">
+    <h2>Tu Inteligencia Radiante</h2>
+    <p>
+      En tu mente habita un universo,
+      una sabiduría que deslumbra al hablar,
+      tus palabras son versos dispersos,
+      que me envuelven, me hacen soñar.
+    </p>
+    <p>
+      Eres inteligencia en su máxima expresión,
+      un faro que guía mis pasos perdidos,
+      en cada diálogo, en cada conversación,
+      me inspiras a ser mejor, a ser atrevidos.
+    </p>
+    <p>
+      Tu madurez va más allá de los años,
+      eres un libro abierto de experiencias,
+      en tus pensamientos encuentro extraños
+      encantos, que alimentan mis creencias.
+    </p>
+    <p>
+      Eres la luz que ilumina mi camino,
+      con conocimiento y perspicacia,
+      tu inteligencia es un tesoro divino,
+      que enriquece mi vida con gracia.
+    </p>
+  </div>
+
+  <div class="poem-background" id="poem4">
+    <h2>El Refugio Boscoso</h2>
+    <p>
+      Imaginemos un lugar, un paraíso soñado,
+      un bosque mágico, nuestro dulce refugio,
+      donde el susurro de los árboles sea el legado,
+      y el amor se entrelace con cada suspiro.
+    </p>
+    <p>
+      En medio de la naturaleza nos encontraremos,
+      abrazados por la calma y la serenidad,
+      construyendo recuerdos que nunca desvaneceremos,
+      en ese rincón del mundo, lleno de felicidad.
+    </p>
+    <p>
+      Juntos exploraremos senderos ocultos,
+      en ese bosque encantado de ensueño,
+      cada paso que demos será puro disfrute,
+      en nuestro refugio, juntos y dueños.
+    </p>
+    <p>
+      Encontraremos en la sombra de los árboles,
+      un lugar donde nuestros corazones arden,
+      el bosque será testigo de nuestros amores,
+      un paraíso secreto donde nos perdemos.
+    </p>
+  </div>
+
+  <div class="poem-background" id="poem5">
+    <h2>Perfección Encarnada</h2>
+    <p>
+      Eres la perfección en cada latido,
+      un ser que despierta admiración,
+      en todos los sentidos, has rendido
+      mi corazón, llenándolo de pasión.
+    </p>
+    <p>
+      Tu belleza va más allá de lo tangible,
+      es un reflejo de tu alma pura,
+      tus gestos, tus palabras, intangibles,
+      me conquistan, despiertan mi locura.
+    </p>
+    <p>
+      Eres perfección en cada detalle,
+      en tu sonrisa, en tu forma de ser,
+      me has enseñado a amar sin tregua, sin calle,
+      y en tu perfección, encuentro mi querer.
+    </p>
+    <p>
+      Cada mirada tuya es un poema,
+      que embellece mi existencia,
+      eres la perfección hecha esquema,
+      mi musa, mi amor, mi esencia.
+    </p>
+  </div>
+</div>
+
+    </div>
+
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <title>Carta de Amor</title>
+  <link rel="stylesheet" type="text/css" href="styles.css">
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Parisienne&display=swap');
+  </style>
+</head>
+
+<body>
+   <button id="btnMostrarCarta" class="popup-button">Abrir Carta</button>
+
+<div id="carta" class="carta-oculta">
+  <div id="cartaPopup" class="popup">
+    <div class="popup-content">
+      <span class="close">&times;</span>
+      <h2>Carta de Amor</h2>
+      <p>
+        Querida Citlally,
+        <br><br>
+        En el vasto lienzo de mi existencia trazaste,
+        Tu figura luminosa, sublime y embriagante.
+        Eres la musa que alienta mi pluma a crear,
+        Versos donde el amor eterno pueda florecer.
+        <br><br>
+        En los recónditos confines de mis sueños,
+        Imagino un futuro donde juntos somos dueños,
+        De un idilio imperecedero, colmado de pasión,
+        Donde el tiempo se detiene ante nuestra unión.
+        <br><br>
+        La distancia, efímera barrera de apariencia frágil,
+        No puede opacar la llama que en nosotros arde ágil.
+        Pues en mi corazón te lleva, latiendo constante,
+        Transformando la lejanía en un lazo galante.
+        <br><br>
+        Has conquistado mi ser con fuerza arrolladora,
+        Despertando en mí un amor que jamás se evapora.
+        En cada pensamiento, en cada suspiro sentido,
+        Tu esencia se impregna, irradiando amor en cada latido.
+        <br><br>
+        Cuando nuestros cuerpos se encuentren, finalmente,
+        Mis brazos envolverán tu esencia, cálida y ardiente.
+        En ese abrazo anhelado, dos almas se entrelazan,
+        Fusionando el universo en una danza sin pausas.
+        <br><br>
+        Eres la belleza encarnada, divina y exquisita,
+        La musa inspiradora que mi pluma incita.
+        Cada palabra que brota, cada verso que susurra,
+        Es un tributo a tu ser, un eco de mi alma que se suma.
+        <br><br>
+        En el teatro de la vida, seremos actores principales,
+        Construyendo una historia de amor en cada detalle.
+        Juntos, caminaremos con paso firme y sereno,
+        Superando obstáculos con el fuego de un amor eterno.
+        <br><br>
+        En tus ojos se dibuja el horizonte de mis anhelos,
+        Un destino compartido, donde no hay desvelos.
+        Tu calidez se convierte en mi refugio sereno,
+        Donde encuentro la paz y la dicha que tanto deseo.
+        <br><br>
+        Así, amada mía, fundaremos un hogar imborrable,
+        Donde cada día sea un poema irrepetible e inolvidable.
+        El tiempo será cómplice de nuestra pasión ardiente,
+        Entrelazando nuestras vidas en un destino incandescente.
+        <br><br>
+        Y en el día en que nuestros cuerpos se encuentren,
+        La eternidad se materializará en cada abrazo que emprenden.
+        Seremos dos almas unidas, en un universo compartido,
+        Donde la calidez de tus brazos será mi mayor abrigo.
+        <br><br>
+        En ese encuentro de almas, se escribirá nuestra canción,
+        Una melodía que resonará en cada rincón.
+        Seremos protagonistas de un amor sin fronteras,
+        Trascendiendo en el tiempo, uniendo nuestras esferas.
+        <br><br>
+        Así, mi amada, nuestra historia será un legado,
+        De un amor eterno, inmortalizado en cada trazo.
+        Donde la distancia no será más que una ilusión pasajera,
+        Pues nuestro amor es eterno, como la primavera.
+      </p>
+    </div>
+<button id="btnMostrarCarta" class="popup-button">Abrir Carta</button>
+  </div>
+
+<script src="script.js"></script>
+
+
+ <div class="gifs-bottom">
+  <img src="gif4.gif" alt="Gif 4">
+  <img src="gif5.gif" alt="Gif 5">
+  <img src="gif6.gif" alt="Gif 6">
+</div>
+
+  <script src="script.js"></script>
+
+</html>
